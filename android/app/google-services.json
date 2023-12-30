@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737500894319",
+    "project_id": "greenroot-99bf8",
+    "storage_bucket": "greenroot-99bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737500894319:android:f7bdf3e67545042449699a",
+        "android_client_info": {
+          "package_name": "com.example.elearner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYvwVSHALEORTLsYHNQ36CvOo8mCuy680"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
