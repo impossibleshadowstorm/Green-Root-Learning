@@ -6,9 +6,12 @@ import 'package:firebase_core/firebase_core.dart'; // For Firebase initializatio
 import 'package:google_fonts/google_fonts.dart'; // For using Google Fonts
 import 'package:shared_preferences/shared_preferences.dart'; // For using SharedPreferences
 import 'package:firebase_messaging/firebase_messaging.dart'; // For Firebase Cloud Messaging
+import 'package:elearner/services/global.dart';
 
 
-void main() {
+
+void main() async {
+  await Global.init();
   runApp(const MyApp());
 }
 
